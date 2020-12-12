@@ -1,13 +1,13 @@
 #c::
 Send ^c
-Sleep, 400
+Sleep, 500
 Send !d
-Sleep, 400
+Sleep, 500
 Send ^v
-Sleep, 10
+Sleep, 50
 Send ^a
-Sleep, 10
+Sleep, 50
 Send ^c
-Sleep, 10
+Sleep, 50
 Send ^c
 return
