@@ -1,7 +1,3 @@
 #c::
-Send ^c
-Sleep, 100
-Send !d
-Sleep, 100
-Send ^v^a^c^c
+Send ^c!d^v^a^c^c
 return
